@@ -29,6 +29,4 @@ gcc batalha-naval.c -o batalha-naval
 
 * `3`: Navios posicionados 🚢 
 
-* `5`: Áreas afetadas pelas Habilidades Especiais ⚡ 
-
-Gostaria que eu explicasse melhor a lógica matemática por trás da construção do **Octaedro** ou do **Cone** usando os loops?
+* `5`: Áreas afetadas pelas Habilidades Especiais ⚡
